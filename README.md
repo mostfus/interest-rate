@@ -1,6 +1,6 @@
 # Bank APP
 
-My first app for IOS. Simple loan calculator.
+My first app for IOS. Simple interest rate calculator.
 
 ## Screenshots
 
